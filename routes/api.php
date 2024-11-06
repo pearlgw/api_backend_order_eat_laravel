@@ -33,6 +33,7 @@ Route::middleware(['auth:sanctum'])->group(function () {
     
     Route::get('/items', [ItemController::class, 'index']);
     Route::post('/item', [ItemController::class, 'store'])->middleware('ableCreateUpdateItem');
+    Route::get('/item/{id}', [ItemController::class, 'show'])->middleware('ableCreateUpdateItem');
     Route::patch('/item/{id}', [ItemController::class, 'update'])->middleware('ableCreateUpdateItem');
     
     Route::get('/orders', [OrderController::class, 'index']);
