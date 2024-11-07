@@ -35,3 +35,14 @@
 | `/order`                         | POST       | Membuat order baru.                                   |
 | `/order/{id}/set-as-done`        | PATCH      | Menandai order sebagai selesai.                        |
 | `/order/{id}/payment`            | PATCH      | Memproses pembayaran untuk order.                     |
+
+# Panduan Menjalankan Proyek Laravel
+
+Panduan ini menjelaskan langkah-langkah untuk menjalankan proyek Laravel yang telah di-clone dari GitHub, serta menyediakan dokumentasi API untuk mempermudah penggunaan API yang telah disediakan oleh aplikasi.
+
+## Langkah 1: Clone Repository
+
+Langkah pertama adalah meng-clone repository proyek dari GitHub ke mesin lokal Anda. Jalankan perintah berikut di terminal:
+
+```bash
+git clone https://github.com/pearlgw/api_backend_order_eat_laravel.git
