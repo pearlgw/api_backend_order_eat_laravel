@@ -38,7 +38,7 @@
 
 # Panduan Menjalankan Proyek Laravel
 
-Panduan ini menjelaskan langkah-langkah untuk menjalankan proyek Laravel yang telah di-clone dari GitHub, serta menyediakan dokumentasi API untuk mempermudah penggunaan API yang telah disediakan oleh aplikasi.
+Panduan ini menjelaskan langkah-langkah untuk menjalankan proyek Laravel yang telah di-clone dari GitHub
 
 ### Langkah 1: Clone Repository
 
