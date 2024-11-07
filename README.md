@@ -90,5 +90,5 @@ php artisan db:seed
 php artisan serve
 ```
 
-## Subdomain API OrderingApp
+## Subdomain API OrderingApp (now try on postman)
 https://v1api-orderapp.natagw.my.id/api/
