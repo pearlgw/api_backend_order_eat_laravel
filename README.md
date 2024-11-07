@@ -89,3 +89,6 @@ php artisan db:seed
 ```bash
 php artisan serve
 ```
+
+## Subdomain API OrderingApp
+https://v1api-orderapp.natagw.my.id/api/
