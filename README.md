@@ -51,6 +51,7 @@ git clone https://github.com/pearlgw/api_backend_order_eat_laravel.git
 
 ```bash
 cd api_backend_order_eat_laravel
+cp .env.example .env
 ```
 
 ### Langkah 3: Instalasi Dependensi
